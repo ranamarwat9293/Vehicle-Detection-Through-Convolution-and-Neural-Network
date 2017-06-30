@@ -25,3 +25,5 @@ isme yeh b bta de total data humara 951 jisme se 0 classes 127 hnn 1 jo hnn wo 4
 1 for bikes
 2 for trucks/buses.
 check the file format dataset.txt
+
+Results
