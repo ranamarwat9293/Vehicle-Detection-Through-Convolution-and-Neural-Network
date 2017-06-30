@@ -27,3 +27,7 @@ isme yeh b bta de total data humara 951 jisme se 0 classes 127 hnn 1 jo hnn wo 4
 check the file format dataset.txt
 
 Results
+
+![sli1](https://user-images.githubusercontent.com/29802883/27748781-224b4d3c-5dea-11e7-807e-5ef4f18a6fce.png)
+![test](https://user-images.githubusercontent.com/29802883/27748788-2685000a-5dea-11e7-9446-40900181c638.png)
+![test1](https://user-images.githubusercontent.com/29802883/27748798-2c2129d0-5dea-11e7-9ec5-41e94310a661.png)
