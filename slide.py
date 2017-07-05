@@ -84,7 +84,7 @@ for (x, y, window) in sliding_window(image, stepSize=32, windowSize=(winW, winH)
     y_predict = model.predict(np.array(img,dtype=np.float32))
     label = np.argmax(y_predict)
 #     print(label)
-    if label!= 3:
+    if label!= 2:
         all_rec.append([x,y,x+winW,y+winH])
     
 #         cv2.rectangle(image, (x, y), (x + winW, y + winH), (0, 255, 0), 2)
